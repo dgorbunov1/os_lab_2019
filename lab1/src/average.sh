@@ -2,9 +2,9 @@
 count=$#
 sum=0
 
-for num in "$@"; 
+for num in "$@";
 do 
-sum=$((sum+num))
+    sum=$((sum+num))
 done
 
 average=$((sum/count))

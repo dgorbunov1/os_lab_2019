@@ -1,0 +1,8 @@
+*.o
+*.a
+*.so
+main_static
+main_dynamic
+swap_prog
+revert_prog
+test/test_run
